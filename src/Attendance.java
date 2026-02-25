@@ -1,6 +1,14 @@
 import java.util.Scanner;
 public class Attendance {
     static String[] students = {
+            "Vireak Ny",
+            "Khola Adeel",
+            "Adam De Lacheisserie",
+            "Junyi Wu",
+            "Alvy Paringit",
+            "Jaden Ocampo",
+            "Hengtao",
+            ".Jabir",
     };
     public static void main(String[] args) {
         String student = pickRandomStudent();
