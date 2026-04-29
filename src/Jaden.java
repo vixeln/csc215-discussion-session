@@ -8,6 +8,9 @@ public class Jaden {
 
         if(name.contains("curry") || name.contains("jordan") ){
             System.out.println("Correct!");
+        }else if (name.contains("lebron"))
+        {
+            System.out.println("no");
         }else {
             System.out.println("Wrong!");
         }
