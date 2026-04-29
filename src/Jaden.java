@@ -21,7 +21,7 @@ public class Jaden {
 
         if(name.contains("ronaldo") || name.contains("pele") ){
             System.out.println("Correct!");
-        }else if (name.contains("messi"))
+        }else if (name.contains("messi") || name.contains("yamal"))
         {
             System.out.println("hell no");
         }else {
