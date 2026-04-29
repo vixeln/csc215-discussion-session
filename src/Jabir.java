@@ -6,6 +6,6 @@ public class ClassExample {
         System.out.println("knabjgc");
         System.out.println("Hello world");
         System.out.println("Hello world");
-
+        System.out.println("Hello world");
     }
 }
