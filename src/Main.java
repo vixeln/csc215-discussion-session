@@ -4,5 +4,9 @@ public class Main {
 
     }
 
+		void doNothing() {
+			
+		}
+
 
 }
