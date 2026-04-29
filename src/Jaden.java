@@ -19,9 +19,9 @@ public class Jaden {
         String name2 = input.nextLine().toLowerCase();
 
 
-        if(name.contains("ronaldo") || name.contains("pele") ){
+        if(name2.contains("ronaldo") || name2.contains("pele") ){
             System.out.println("Correct!");
-        }else if (name.contains("messi"))
+        }else if (name2.contains("messi") || name2.contains("yamal"))
         {
             System.out.println("hell no");
         }else {
